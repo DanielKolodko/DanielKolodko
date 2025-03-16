@@ -14,13 +14,13 @@ Cloud Technologies – Harnessing the power of cloud services to scale and innov
 
 Containers & Orchestration: Docker, Kubernetes
 
-CI/CD: Jenkins, GitHub Actions, GitLab CI
+CI/CD: Jenkins, GitHub Actions, 
 
 Cloud Platforms: AWS, Azure, GCP
 
-IaC: Terraform, Ansible, CloudFormation
+IaC: Terraform, Ansible, 
 
-Monitoring & Logging: Prometheus, Grafana, ELK Stack
+Monitoring & Logging: Prometheus, Grafana, 
 
 🤝 Let's Connect!
 
